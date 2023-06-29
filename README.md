@@ -41,7 +41,7 @@ containerlab deploy
 
 2. showing it graphically
   ```
-sudo containerlab graph --topo frrlab.yml
+sudo containerlab graph --topo <NAME-OF-CONF-YML>
 ```
 
 3. destroying it
