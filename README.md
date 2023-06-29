@@ -24,4 +24,27 @@ The following requirements must be satisfied to let containerlab tool run succes
 # links to the images used on the qick start 
 
 1. [Nokia SR Linux](https://github.com/nokia/srlinux-container-image)
-2. [Arista cEOS images will need account](https://www.arista.com/en/support/software-download)
+   
+2. [Arista cEOS images](https://www.arista.com/en/support/software-download) will need account
+
+***********************************************************************************************************
+# IF USING THE YML ABOVE
+
+change the name of the container in the yml file to your own container name 
+***********************************************************************************************************
+# container lab list of good commands 
+
+1 starting it 
+```
+containerlab deploy
+```
+
+2. showing it graphically
+  ```
+sudo containerlab graph --topo frrlab.yml
+```
+
+3. destroying it
+ ```
+   containerlab destroy --topo <NAME-OF-CONF-YML>
+ ```
