@@ -48,3 +48,8 @@ sudo containerlab graph --topo <NAME-OF-CONF-YML>
  ```
    containerlab destroy --topo <NAME-OF-CONF-YML>
  ```
+# Docker
+1. starting it
+ ```
+sudo systemctl start docker
+ ```
