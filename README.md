@@ -21,3 +21,7 @@ The following requirements must be satisfied to let containerlab tool run succes
 
 
 ***********************************************************************************************************
+# links to the images used on the qick start 
+
+1. [Nokia SR Linux](https://github.com/nokia/srlinux-container-image)
+2. []
