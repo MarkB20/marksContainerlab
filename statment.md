@@ -25,3 +25,11 @@ Through the uses of the framework and documentation provided by this project, it
 that can test it to ensure that there is little to no errors or vulnerabilities. 
 Using software like OpenNMS that will monitor the network and display the changes that occur from the traffic that goes through the network and see the results of injecting faults into the system. 
 Modelling real-world network topology using and configuring BGP for routing.
+
+## other container lab related projects that look cool
+
+https://github.com/martimy/clab_sdn_dcn
+
+https://github.com/srl-labs/srl-telemetry-lab
+
+
