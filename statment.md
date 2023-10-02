@@ -1,6 +1,6 @@
 # To create a simulated network to see if it can be used for creating mock networks for testing. 
 
-Aims
+## Aims
 
 •	To reduce risks of deploying a network. 
 
@@ -11,7 +11,7 @@ Aims
 •	 Set up configurations for testing faults and resiliency. 
 
 
-Objectives 
+## Objectives 
 
 •	Implement OpenNMS monitoring software from my placement to monitor and display the virtual router network. 
 
@@ -20,7 +20,7 @@ Objectives
 •	Set up BGP (Border Gateway Protocol) in the network to help simulate a real working environment.  
 
 
-Problem Statement 
+## Problem Statement 
 Through the uses of the framework and documentation provided by this project, it would help quickly set up deployable mock networks, 
 that can test it to ensure that there is little to no errors or vulnerabilities. 
 Using software like OpenNMS that will monitor the network and display the changes that occur from the traffic that goes through the network and see the results of injecting faults into the system. 
